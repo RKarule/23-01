@@ -2,19 +2,69 @@ h1{
     text-align: center;
     font-family: monospace;  
     font-size: 40px;
-    border-width: 5px;
-    border-color: grey;
 }
-
+h4{
+    font-family: monospace;
+}
+p{
+    font-family: monospace;
+}
+.gardums{
+    text-align: center;
+}
+#gardumsID{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 50px;
+}
+.snaucers{
+    text-align: center;
+}
+#snaucersID{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 50px;  
+}
+.textPirms{
+    text-align: center;
+}
+.Pirms{
+    text-align: center;
+}
+#PirmsID{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 50px;
+}
+.textPēc{
+    text-align: center;
+}
+.Pēc{
+    text-align: center;
+}
+#PēcID{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 50px;
+}
 h3{
     text-align: center;
     font-family: monospace;
     font-size: 25px;
 }
-
+.izveidoja{
+    text-align: right;
+    font-family: monospace;
+    font-size: 16px;
+    opacity: 0.4;
+}
 .Temperaments{
-    border-style: solid;
-    border-width: 5px;
-    border-color: black;
-    width: 200px;
+    font-family: monospace;
+}
+.Krāsas{
+    font-family: monospace;
 }
